@@ -1,9 +1,15 @@
 {
-    "name": "Kish-MD",
+    "name": "Sparky-MD",
     "description": "A WhatsApp bot based on Baileysjs with Multi-Device support",
-    "repository": "https://github.com/Brashokish/Kish-MD",
+    "repository": "https://github.com/Marianavivi/Sparky-MD",
     "logo": "https://telegra.ph/file/f6c385bf4ad626118d3d9.jpg",
-    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+    "keywords": [
+        "nodejs",
+        "bot",
+        "whatsapp bot",
+        "whatsapp automation",
+        "multi device"
+    ],
     "buildpacks": [
       {
         "url": "heroku/nodejs"
