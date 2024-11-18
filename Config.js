@@ -19,7 +19,7 @@ global.themeemoji = '𓅃'
 global.wm = "Mariana2024"
 
 //theme link
-//global.link = ''
+//global.link = 'https://chat.whatsapp.com/Gp00pwuFB0wIhu4Hp688M5'
 
 //custom prefix
 global.prefa = ['-']
